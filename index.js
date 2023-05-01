@@ -11,6 +11,14 @@ app.use(cors())
     res.send(allDestination)
   })
 
+  // single destination(dynamic data)
+
+  app.get('/allDestination/:id' ,(req,res)=>{
+    const id = req.params.id;
+    const singleDestination = allDestination.find(data => data.id == id)
+    res.send(singleDestination)
+  })
+
 /* code for destination end here */
 
 
