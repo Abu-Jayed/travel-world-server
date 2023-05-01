@@ -1,0 +1,57 @@
+[
+  {
+    "hotelName": "Luxury Suites",
+    "heading": "Luxury hotel with top-class amenities",
+    "numberOfPeople": 2,
+    "bedrooms": 1,
+    "features": ["Swimming pool", "Spa", "Gym"],
+    "rating": 4.8,
+    "numberOfRatings": 112,
+    "price": 95,
+    "totalPrice": 475
+  },
+  {
+    "hotelName": "Comfort Inn",
+    "heading": "Cozy hotel with excellent service",
+    "numberOfPeople": 3,
+    "bedrooms": 2,
+    "features": ["Free breakfast", "Wi-Fi", "Parking"],
+    "rating": 4.2,
+    "numberOfRatings": 87,
+    "price": 70,
+    "totalPrice": 350
+  },
+  {
+    "hotelName": "Beach Resort",
+    "heading": "Beachfront hotel with stunning views",
+    "numberOfPeople": 4,
+    "bedrooms": 2,
+    "features": ["Private beach", "Outdoor pool", "Bar"],
+    "rating": 4.5,
+    "numberOfRatings": 63,
+    "price": 110,
+    "totalPrice": 440
+  },
+  {
+    "hotelName": "City View Hotel",
+    "heading": "Modern hotel in the heart of the city",
+    "numberOfPeople": 1,
+    "bedrooms": 1,
+    "features": ["Fitness center", "24-hour room service", "Business center"],
+    "rating": 4.0,
+    "numberOfRatings": 92,
+    "price": 85,
+    "totalPrice": 340
+  },
+  {
+    "hotelName": "Family Suites",
+    "heading": "Spacious suites for families",
+    "numberOfPeople": 6,
+    "bedrooms": 3,
+    "features": ["Kitchenette", "Indoor pool", "Playground"],
+    "rating": 4.7,
+    "numberOfRatings": 56,
+    "price": 124,
+    "totalPrice": 620
+  }
+]
